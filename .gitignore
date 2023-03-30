@@ -1,2 +1,4 @@
 # compiled output
-/node_modules
+node_modules
+db/app.db
+.env
