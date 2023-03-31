@@ -1,6 +1,6 @@
-## Ignite_02_API_REST_NodeJS
+# Ignite_02_API_REST_NodeJS
 
-# Anotações
+## Anotações
 Runtime Type Checking => JavaScript
 Static TYpe Checking => TypeScript
 
@@ -13,25 +13,25 @@ Arquivos terminados em d.ts normalmente na pasta @types, são arquivos definiç�
 
 Cookies são formas de manter contexto entre requisições.
 
-# Testes
+## Testes
 Unitários: testa uma unidade da sua apliação, ou seja, uma unidade isolada (função)
 Integração: testa comunicação entre duas ou mais unidades
 E2E - ponta a ponta: testes que simulam um usuário operando na nossa aplicação
 
 Pirãmide de testes: E2E (não dependem de nenhuma tecnologia, não dependem de arquitetura)
 
-## Engenharia de Software
+# Engenharia de Software
 
-# RF
+## RF
 - [x] O usuário deve porder criar uma nova transação;
 - [x] O usiário deve poder obter um resumo da sua conta;
 - [x] O usuário deve poder listar todas transações que já ocorreram;
 - [x] O usuário deve poder visualizar uma transação única;
 
-# RN
+## RN
 - [x] A transação pode ser do tipo crédito que somara no valor total, ou débito que subtrairá;
 - [x] Deve ser possível identificarmos o usuário entre as requisições;
 - [x] O usuário só pode visualizar transações o qual ele criou;
 
-# RNF
+## RNF
 - [ ] 
