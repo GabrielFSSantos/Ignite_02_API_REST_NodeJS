@@ -7,3 +7,21 @@ npx => vem junto ao npm e serve para executar codigos das bibliotecas que baixam
 exemplos: 'npx tsc --init' (comando do typescript), 'npx knex migrate:make' (comando do knex)
 
 Migrations (knex) => controle de versão, historico de todas as mudanças realizadas na estrutura do banco de dados (semelhante ao git, mas para banco de dados).
+
+Arquivos terminados em d.ts normalmente na pasta @types, são arquivos definição de tipos, são codigos com apenas type script e usado para sobrescrever um tipo de uma biblioteca.
+
+## Engenharia de Software
+
+# RF
+- [x] O usuário deve porder criar uma nova transação;
+- [x] O usiário deve poder obter um resumo da sua conta;
+- [x] O usuário deve poder listar todas transações que já ocorreram;
+- [x] O usuário deve poder visualizar uma transação única;
+
+# RN
+- [x] A transação pode ser do tipo crédito que somara no valor total, ou débito que subtrairá;
+- [ ] Deve ser possível identificarmos o usuário entre as requisições;
+- [ ] O usuário só pode visualizar transações o qual ele criou;
+
+# RNF
+- [ ] 
