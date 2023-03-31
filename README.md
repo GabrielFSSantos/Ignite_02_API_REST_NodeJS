@@ -13,6 +13,8 @@ Arquivos terminados em d.ts normalmente na pasta @types, são arquivos definiç�
 
 Cookies são formas de manter contexto entre requisições.
 
+Opções de Deploys gratuitos: render.com | fly.io | railway.app
+
 ## Testes
 Unitários: testa uma unidade da sua apliação, ou seja, uma unidade isolada (função)
 Integração: testa comunicação entre duas ou mais unidades
