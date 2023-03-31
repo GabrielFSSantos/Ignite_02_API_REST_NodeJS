@@ -1,5 +1,6 @@
-# Ignite_02_API_REST_NodeJS
+## Ignite_02_API_REST_NodeJS
 
+# Anotações
 Runtime Type Checking => JavaScript
 Static TYpe Checking => TypeScript
 
@@ -11,6 +12,13 @@ Migrations (knex) => controle de versão, historico de todas as mudanças realiz
 Arquivos terminados em d.ts normalmente na pasta @types, são arquivos definição de tipos, são codigos com apenas type script e usado para sobrescrever um tipo de uma biblioteca.
 
 Cookies são formas de manter contexto entre requisições.
+
+# Testes
+Unitários: testa uma unidade da sua apliação, ou seja, uma unidade isolada (função)
+Integração: testa comunicação entre duas ou mais unidades
+E2E - ponta a ponta: testes que simulam um usuário operando na nossa aplicação
+
+Pirãmide de testes: E2E (não dependem de nenhuma tecnologia, não dependem de arquitetura)
 
 ## Engenharia de Software
 
