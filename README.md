@@ -10,6 +10,8 @@ Migrations (knex) => controle de versão, historico de todas as mudanças realiz
 
 Arquivos terminados em d.ts normalmente na pasta @types, são arquivos definição de tipos, são codigos com apenas type script e usado para sobrescrever um tipo de uma biblioteca.
 
+Cookies são formas de manter contexto entre requisições.
+
 ## Engenharia de Software
 
 # RF
