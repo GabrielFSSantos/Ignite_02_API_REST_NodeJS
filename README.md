@@ -2,7 +2,7 @@
 
 ## Anotações
 Runtime Type Checking => JavaScript
-Static TYpe Checking => TypeScript
+Static Type Checking => TypeScript
 
 npx => vem junto ao npm e serve para executar codigos das bibliotecas que baixamos.
 exemplos: 'npx tsc --init' (comando do typescript), 'npx knex migrate:make' (comando do knex)
